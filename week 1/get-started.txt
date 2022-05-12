@@ -1,0 +1,3 @@
+What exactly does a data analyst do? 
+Put simply, a data analyst is someone who collects, transforms, and organizes data in order to help make informed decisions.
+- make the best possible business decisions
